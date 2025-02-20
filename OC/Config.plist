@@ -1903,7 +1903,7 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>External</string>
+			<string>Builtin</string>
 			<key>PickerVariant</key>
 			<string>GoldenGate</string>
 			<key>PollAppleHotKeys</key>
