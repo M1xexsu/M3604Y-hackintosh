@@ -6,6 +6,7 @@ Use touchpad and audio drivers from Chefkiss website.
 <table>
 <thead>
 <tr><th colspan="2">SUPPORTED VERSIONS</th></tr>
+<tr><th>macos 15.1+</th><th>not tested</th></tr>
 <tr><th>macos 15</th><th>works</th></tr>
 <tr><th>macos 14.4+</th><th>works</th></tr>
 <tr><th>macos 14(upto 14.3)</th><th>works</th></tr>
